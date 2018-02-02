@@ -1,0 +1,26 @@
+{
+  "name": "nyt-react-search",
+  "version": "1.0.0",
+  "description": "React-based rendition of the NYT Article Search application utilizing react mounting lifecycle to query and display articles based on user searches.",
+  "main": "exampleModel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnm0122/NYT-React-Search.git"
+  },
+  "author": "nm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnm0122/NYT-React-Search/issues"
+  },
+  "homepage": "https://github.com/nnm0122/NYT-React-Search#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "logger": "0.0.1",
+    "mongoose": "^4.13.10"
+  }
+}
